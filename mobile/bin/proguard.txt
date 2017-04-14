@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:9
+-keep class com.darkfig.chickenfunrun.MainActivity { <init>(...); }
+
+# view res/layout/main.xml #generated:3
+-keep class com.darkfig.chickenfunrun.MainActivity$JmeFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
